@@ -44,11 +44,3 @@ void mousePressed()
   endX = 0;
   endY = 150;
 }
-/*void mouseReleased()
-{
-  background(0, 0, 0);
-  startX = 0;
-  startY = 150;
-  endX = 0;
-  endY = 150;
-}*/
